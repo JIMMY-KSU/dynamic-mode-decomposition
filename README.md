@@ -4,5 +4,5 @@
 **Jupyter Notebook.**
 
 ``
-jupyter notebook dmd-tests.ipynb.ipynb
+jupyter notebook dmd-tests.ipynb
 ``
